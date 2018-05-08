@@ -1,0 +1,9 @@
+c:\users\andrew\documents\visual studio 2015\Projects\Calculator DBS Theme\Calculator DBS Theme\bin\Debug\Calculator DBS Theme.exe.config
+C:\Users\Andrew\documents\visual studio 2015\Projects\Calculator DBS Theme\Calculator DBS Theme\bin\Debug\Calculator DBS Theme.exe
+C:\Users\Andrew\documents\visual studio 2015\Projects\Calculator DBS Theme\Calculator DBS Theme\bin\Debug\Calculator DBS Theme.pdb
+C:\Users\Andrew\documents\visual studio 2015\Projects\Calculator DBS Theme\Calculator DBS Theme\obj\Debug\Calculator DBS Theme.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\documents\visual studio 2015\Projects\Calculator DBS Theme\Calculator DBS Theme\obj\Debug\Calculator_DBS_Theme.Form1.resources
+C:\Users\Andrew\documents\visual studio 2015\Projects\Calculator DBS Theme\Calculator DBS Theme\obj\Debug\Calculator_DBS_Theme.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2015\Projects\Calculator DBS Theme\Calculator DBS Theme\obj\Debug\Calculator DBS Theme.csproj.GenerateResource.Cache
+C:\Users\Andrew\documents\visual studio 2015\Projects\Calculator DBS Theme\Calculator DBS Theme\obj\Debug\Calculator DBS Theme.exe
+C:\Users\Andrew\documents\visual studio 2015\Projects\Calculator DBS Theme\Calculator DBS Theme\obj\Debug\Calculator DBS Theme.pdb
